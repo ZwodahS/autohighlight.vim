@@ -21,7 +21,7 @@ Assuming you've got Vundle installed and configured, add the following line to
 your `.vimrc`:
 
 ```vim
-Plugin 'lygaret/autohighlight.vim'
+Plugin 'zwodahs/autohighlight.vim'
 ```
 
 Configuration
