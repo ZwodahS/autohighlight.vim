@@ -1,7 +1,7 @@
 Vim AutoHighlight
 =================
 
-This plugin will automatically highlight the word currently under the cursor 
+This plugin will automatically highlight the word currently under the cursor
 in the current window. This allows you to more easily see where words are
 being used, (eg. variable usages, etc.)
 
@@ -17,11 +17,11 @@ Installation
 
 If you don't have a preferred installation method, I recommend using [Vundle][].
 
-Assuming you've got Vundle installed and configured, add the following line to 
+Assuming you've got Vundle installed and configured, add the following line to
 your `.vimrc`:
 
 ```vim
-Plugin 'lygaret/autohighlight.vim'
+Plugin 'zwodahs/autohighlight.vim'
 ```
 
 Configuration
